@@ -1,1 +1,3 @@
-# This is the first experiment and we use git
+# This is the first ECG experiment and we practice git
+
+### We work with different hospitals
